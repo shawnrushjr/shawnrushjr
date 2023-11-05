@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux</b>
-  - [Apply Filters to SQL Queries](https://github.com/shawnrushjr/repo)
+  - [Apply Filters to SQL Queries](https://github.com/shawnrushjr/LinuxLab/tree/main)
   - [File Permissions](https://github.com/shawnrushjr/repo)
 
 - <b>Python</b>
