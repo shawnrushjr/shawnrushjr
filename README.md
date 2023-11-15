@@ -4,7 +4,7 @@
 
 - <b>Linux</b>
   - [Apply Filters to SQL Queries](https://github.com/shawnrushjr/LinuxLab/tree/main)
-  - [File Permissions](https://github.com/shawnrushjr/repo)
+  - [File Permissions](https://github.com/shawnrushjr/FilePermissionsLab/tree/main)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/shawnrushjr/repo)
