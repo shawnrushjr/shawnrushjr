@@ -8,11 +8,9 @@
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/shawnrushjr/PythonLab/tree/main)
- 
-
 
 - <b>Certifications</b>
-  - Google Cybersecurity Professional <img src="https://imgur.com/55o2BB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  - [Google Cybersecurity Professional](https://github.com/shawnrushjr/Certifications/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
