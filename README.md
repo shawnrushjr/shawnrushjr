@@ -12,7 +12,7 @@
 
 
 - <b>Certifications</b>
-  - Google Cybersecurity Professional (https://imgur.com/55o2BB9.png)
+  - Google Cybersecurity Professional <img src="https://imgur.com/qtiihty.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <h2> 🤳 Connect with me:</h2>
