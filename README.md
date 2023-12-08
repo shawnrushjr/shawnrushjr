@@ -7,7 +7,7 @@
   - [File Permissions](https://github.com/shawnrushjr/FilePermissionsLab/tree/main)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/shawnrushjr/repo)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/shawnrushjr/PythonLab/tree/main)
  
 <h2>Certifications</h2>
   - [Google Cybersecurity Professional](https://github.com/shawnrushjr/repo)
