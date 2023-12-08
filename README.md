@@ -10,7 +10,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/shawnrushjr/PythonLab/tree/main)
  
 <h2>Certifications</h2>
-  - [Google Cybersecurity Professional] (https://imgur.com/55o2BB9.png)
+  - <b>Google Cybersecurity Professional] (https://imgur.com/55o2BB9.png)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
